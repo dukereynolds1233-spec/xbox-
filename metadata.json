@@ -1,0 +1,6 @@
+{
+  "name": "BO3 Zombies 3D FPS Prototype",
+  "description": "A 3D first-person shooter prototype inspired by Black Ops Zombies with WASD controls, pointer lock, zombies wave survival, wall buys, perks, and authentic HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
